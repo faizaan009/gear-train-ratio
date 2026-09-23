@@ -78,12 +78,11 @@ with st.expander("👥 Group / Team Details", expanded=False):
     | Field | Value |
     |-------|-------|
     | **Group Number** | *(Mr. Pythons)* |
-    25012251210006
     | **Member 1** | Abdul Mukhtadir Faizaan – 25012250610060 |
     | **Member 2** | Shaikh Mohammed Jalis Sarfaraz  – 25012250670909 |
     | **Member 3** | Talsaniya Daksh – 25012251210006 |
     | **Member 4** | Valand Akshit – 25012251210007 |
-    | **Guide / Faculty** | *(MohammedAzim Shaikh)* |
+    | **Guide / Faculty** | **MohammedAzim Shaikh** |
     """)
 
 st.divider()
