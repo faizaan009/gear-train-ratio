@@ -77,14 +77,14 @@ with st.expander("👥 Group / Team Details", expanded=False):
     st.markdown("""
     | Field | Value |
     |-------|-------|
-    | **Group Number** | *(Enter your group number)* |
-    | **Member 1** | Name – Enrollment No. |
-    | **Member 2** | Name – Enrollment No. |
-    | **Member 3** | Name – Enrollment No. |
-    | **Member 4** | Name – Enrollment No. |
-    | **Guide / Faculty** | *(Faculty name)* |
+    | **Group Number** | *(Mr. Pythons)* |
+    25012251210006
+    | **Member 1** | Abdul Mukhtadir Faizaan – 25012250610060 |
+    | **Member 2** | Shaikh Mohammed Jalis Sarfaraz  – 25012250670909 |
+    | **Member 3** | Talsaniya Daksh – 25012251210006 |
+    | **Member 4** | Valand Akshit – 25012251210007 |
+    | **Guide / Faculty** | *(MohammedAzim Shaikh)* |
     """)
-    st.caption("✏️ Replace the placeholders above with your actual team information before submission.")
 
 st.divider()
 
